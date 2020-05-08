@@ -22,4 +22,4 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore ./planetaryClasses/
     - name: Test
-      run: dotnet test --no-restore --verbosity normal ./planeteryClasses.Tests/
+      run: dotnet test --no-restore --verbosity normal ./planetaryClasses.Tests/
