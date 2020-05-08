@@ -1,0 +1,8 @@
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\bin\Debug\netstandard2.0\planetaryClasses.deps.json
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\bin\Debug\netstandard2.0\planetaryClasses.dll
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\bin\Debug\netstandard2.0\planetaryClasses.pdb
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\obj\Debug\netstandard2.0\planetaryClasses.csprojAssemblyReference.cache
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\obj\Debug\netstandard2.0\planetaryClasses.AssemblyInfoInputs.cache
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\obj\Debug\netstandard2.0\planetaryClasses.AssemblyInfo.cs
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\obj\Debug\netstandard2.0\planetaryClasses.dll
+C:\Users\adria\Source\github\planetaryMovers\planetaryClasses\obj\Debug\netstandard2.0\planetaryClasses.pdb
