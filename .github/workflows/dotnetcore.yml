@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 3.1.101
     - name: Install dependencies
-      run: dotnet restore ./planetaryMovers/
+      run: dotnet restore ./planetaryClasses/
     - name: Build
-      run: dotnet build --configuration Release --no-restore ./planetaryMovers/
+      run: dotnet build --configuration Release --no-restore ./planetaryClasses/
     - name: Test
-      run: dotnet test --no-restore --verbosity normal ./planeteryMovers.Tests/
+      run: dotnet test --no-restore --verbosity normal ./planeteryClasses.Tests/
